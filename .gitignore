@@ -1,0 +1,17 @@
+datasets/
+logs/
+ckpts/
+*.ckpt
+*.csv
+*.yaml
+*.pyc
+*.zip
+*.ipynb
+*.png
+*.pth
+*.cpp
+*.cu
+*.db
+.vscode
+temp.py
+__pycache__
