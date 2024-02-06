@@ -1,4 +1,4 @@
-# Your Project Name
+# PharyngeaLSeG
 
 This project does 3D Multi Task Model.
 
